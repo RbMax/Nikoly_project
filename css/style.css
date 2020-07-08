@@ -1,0 +1,60 @@
+#header {
+    position: relative;
+    margin-top: -5px;
+    margin-left: -10px;
+    /*background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkvzqoS1g1pX8l7Nd_jZcWRKjZqL7XwUetew&usqp=CAU);
+    */
+    background-color: aqua;
+    width: 1605px;
+    height: 230px;
+}
+
+#header h3{
+    font: 30px sans-serif;
+    color: chocolate;
+    margin-top: 20px;
+    margin-left: 1150px;
+    margin-bottom: 0px;
+    position: absolute;
+}
+
+
+#header p{
+    font: 20px bold sans-serif;
+    color: black;
+    margin-left: 1100px;
+    margin-top: 60px;
+    position: absolute;
+}
+
+#header img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#butt{
+    position: absolute;
+    margin-top:110px;
+    margin-left: 1170px;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 1px rgba(255,255,255,.2), 0 -1px rgba(0,0,0,.8);
+    outline: none;
+    border: none;
+    border-radius: 100px;
+    background: rgb(255, 0, 0) radial-gradient(150% 100% at 50% 5px, rgba(255,255,255,.2), rgba(0,0,0,0));
+    box-shadow: inset rgba(0,0,0,.6) 0 -2px 5px, inset rgba(252,255,255,.7) 0 2px 5px, rgba(0,0,0,.8) 0 2px 5px -1px;
+    color: rgb(255, 255, 255);
+    user-select: none;
+}
+
+
+
+
